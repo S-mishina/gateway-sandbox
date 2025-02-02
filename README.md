@@ -10,7 +10,7 @@ TBU
 
 [link](https://learn.microsoft.com/ja-jp/azure/architecture/microservices/design/gateway?utm_source=chatgpt.com)
 
-## API Gateway vs Kong: Feature Comparison
+## API Gateway vs Kong
 
 ### AWS API Gateway
 
@@ -46,6 +46,18 @@ TBU
 
 
 [link](https://docs.jp.konghq.com/gateway/latest/)
+
+From here, we will look at the functional aspects.
+
+## API Gateway vs Kong: Feature Comparison
+
+### aaa
+
+#### API-Gateway
+
+#### Kong API-Gateway
+
+
 
 ## When to Use AWS API Gateway vs Kong
 
