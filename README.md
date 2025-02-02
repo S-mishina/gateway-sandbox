@@ -16,6 +16,8 @@ TBU
 
 TBU
 
+[link](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+
 ### Kong API Gateway
 
 TBU
@@ -51,13 +53,15 @@ From here, we will look at the functional aspects.
 
 ## API Gateway vs Kong: Feature Comparison
 
-### aaa
+### Service & Route
 
 #### API-Gateway
 
+TBU
+
 #### Kong API-Gateway
 
-
+TBU
 
 ## When to Use AWS API Gateway vs Kong
 
